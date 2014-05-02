@@ -17,6 +17,9 @@
 
 TARGET_SPECIFIC_HEADER_PATH += device/semc/haida/include
 
+# Recovery
+DEVICE_RESOLUTION := 480x854
+
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/semc/haida/bluedroid
 
