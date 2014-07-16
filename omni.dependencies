@@ -14,13 +14,13 @@
   {
     "remote":      "omnirom",
     "repository":  "android_hardware_qcom_gps",
-    "target_path": "hardware/qcom/gps"
+    "target_path": "hardware/qcom/gps",
     "revision":    "android-4.4"
   },
   {
     "remote":      "omnirom",
     "repository":  "android_hardware_sony_DASH",
-    "target_path": "hardware/sony/DASH"
+    "target_path": "hardware/sony/DASH",
     "revision":    "android-4.4"
   },
   {
