@@ -15,8 +15,6 @@
 -include device/semc/mogami-common/BoardConfigCommon.mk
 -include vendor/semc/haida/BoardConfigVendor.mk
 
-TARGET_SPECIFIC_HEADER_PATH += device/semc/haida/include
-
 # Recovery
 DEVICE_RESOLUTION := 480x854
 
